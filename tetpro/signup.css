@@ -1,5 +1,5 @@
 .total{
-    background-image: url("scrt.jpg");
+    background-image: url("tp.jpeg");
     width: 100%;
     height: 102vh;
     border: 1px solid;
@@ -11,10 +11,10 @@
     align-items: center;
 }
 .login{
-    background-color: black;
+    background-color: #FFCCCB;
     width: 400px;
-    height: 450px;
-    box-shadow: 0 0 30px grey;
+    height: 350px;
+    box-shadow: 0 0 30px blue;
 }
 *{
     Padding : 0;
@@ -38,9 +38,9 @@
     padding-left: 20px;
 }
 .login1:hover{
-    background-color: black;
+    background-color: white;
     width: 300px;
-    color: white;
+    color: yellow;
 }
 input a:hover{
     font-weight: bold;
@@ -52,17 +52,7 @@ input::placeholder{
     color: grey;
 }
 .dont{
-    color: grey;
-}
-.pro label{
-    color: grey;
-}
-.hoiold{
-    color: grey;
-}
-.cauhoi{
-    display: flex;
-    margin-left: 100px;
+    color: yellow;
 }
 .pass:hover{
     width: 300px;
