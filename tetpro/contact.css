@@ -1,0 +1,96 @@
+.totalmenu{
+    background: linear-gradient(45deg, #FF7276, yellow);
+    height: 50px;
+    display: flex;
+    align-items: center;
+    overflow: hidden;
+    position: fixed;
+    top: 0;
+    width: 100%;
+}
+.menu{
+    width: 700px;
+    display: flex;
+}
+*{
+    Padding : 0;
+    Margin :0;
+    Box-sizing : border-box ; 
+    }
+    .menu ul {
+        list-style-type: none;
+        background:	linear;
+        text-align: center;
+        display: flex;
+    }
+    
+    .menu ul li {
+        color: white;
+        height: 50px;
+        width: 150px;
+        line-height: 50px;
+    }
+    .menu ul li a{
+        color: red;
+        text-decoration: none;
+        display: block;
+    }
+    .menu ul li a:hover{
+        background: linear-gradient( yellow, #FF7276);
+        color: #FF7276;
+    }
+.mc{
+    color: black;
+    font-weight: bold;
+    font-size: 80px;
+}
+.if{
+    font-size: 50px;
+    color: #FFFF00;
+}
+.fblg{
+    height: 50px;
+    width: 50px;
+}
+footer{
+    margin-top: 100px;
+    padding: 3px;
+    background-color: #26272b;
+    height: 160px;
+}
+.hd{
+    font-size: 20px;
+    color: white;
+}
+.lineo{
+    display: flex;
+    justify-content: space-around;
+}
+.hdo{
+    font-size: 20px;
+    color: white;
+    margin-left: 270px;
+}
+.linet{
+    display: flex;
+}
+.hdt{
+    font-size: 20px;
+    color: white;
+    margin-left: 495px;
+}
+.nene{
+    color: white;
+    font-weight: bold;
+}
+.inftotal{
+    margin-left: 132px;
+}
+.totalhai{
+    display: flex;
+}
+.anhne{
+    margin-left: 132px;
+    height: 500px;
+    width: 450px;
+}
