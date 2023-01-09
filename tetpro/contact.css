@@ -43,10 +43,12 @@
     color: black;
     font-weight: bold;
     font-size: 80px;
+    font-family: Arial, Helvetica, sans-serif;
 }
 .if{
     font-size: 50px;
     color: #FFFF00;
+    font-family: Arial, Helvetica, sans-serif;
 }
 .fblg{
     height: 50px;
@@ -56,12 +58,11 @@ footer{
     margin-top: 100px;
     padding: 3px;
     background-color: #26272b;
-    height: 160px;
+    height: 170px;
 }
 .hd{
     font-size: 20px;
     color: white;
-    font-family: Arial, Helvetica, sans-serif;
 }
 .lineo{
     display: flex;
@@ -71,7 +72,6 @@ footer{
     font-size: 20px;
     color: white;
     margin-left: 270px;
-    font-family: Arial, Helvetica, sans-serif;
 }
 .linet{
     display: flex;
@@ -80,7 +80,6 @@ footer{
     font-size: 20px;
     color: white;
     margin-left: 495px;
-    font-family: Arial, Helvetica, sans-serif;
 }
 .nene{
     color: white;
